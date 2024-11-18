@@ -1,5 +1,5 @@
-co\com\InternetDeLasCosas\api\Resource\Components\DatesRegisterTemperature.class
-co\com\InternetDeLasCosas\api\Resource\Components\Temperature.class
-co\com\InternetDeLasCosas\api\Controller\TemperatureController.class
-co\com\InternetDeLasCosas\api\Resource\Components\TemperatureRepository.class
+co\com\InternetDeLasCosas\api\Resource\Components\HumedadRepository.class
+co\com\InternetDeLasCosas\api\Resource\Components\DatesRegisterHumedad.class
+co\com\InternetDeLasCosas\api\Controller\HumedadController.class
 co\com\InternetDeLasCosas\api\ApiApplication.class
+co\com\InternetDeLasCosas\api\Resource\Components\Humedad.class
