@@ -1,0 +1,5 @@
+co\com\InternetDeLasCosas\api\Resource\Components\DatesRegisterTemperature.class
+co\com\InternetDeLasCosas\api\Resource\Components\Temperature.class
+co\com\InternetDeLasCosas\api\Controller\TemperatureController.class
+co\com\InternetDeLasCosas\api\Resource\Components\TemperatureRepository.class
+co\com\InternetDeLasCosas\api\ApiApplication.class
